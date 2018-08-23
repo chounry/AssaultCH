@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\zoozy\documents\workspace\c++\game-hack\assualt-cube\amo-health\code\window\assualtcube-dll\assualtcube-dll\myform.h(425): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  assualtcube-dll.vcxproj -> C:\Users\zoozy\Documents\workspace\c++\game-hack\assualt-cube\amo-health\code\window\assualtcube-dll\Debug\assualtcube-dll.dll
